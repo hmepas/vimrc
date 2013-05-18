@@ -1,0 +1,10 @@
+Comment 14 by NickLa...@gmail.com, Oct 26, 2010
+
+Add this line:
+
+source $VIMRUNTIME/after/plugin/snipMate.vim
+
+at the end of file C:\Program Files\Vim\vim73\plugin\snipMate.vim
+It`s work for me.
+
+=> http://code.google.com/p/snipmate/issues/detail?id=66
