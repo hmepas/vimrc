@@ -7,5 +7,7 @@ my vim runtime directory and vim rc
 2. Alter $VIM/_vimrc file so it's include %HOME%/Dropbox/vimfiles/vimrc
 3. install ctags.exe on any directory specified by %PATH%, could $VIM itself, which is work
 4. Apply snipMate_w7_solution
+5. sudo apt-get install exuberant-ctags vim-nox # for python and ctags support
 Done.
+
 
